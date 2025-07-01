@@ -1,0 +1,10 @@
+{
+  "development": {
+    "baseUrl": "https://localhost:3000",
+    "manifestUrl": "https://localhost:3000/manifest.xml"
+  },
+  "production": {
+    "baseUrl": "https://tu-usuario.github.io/gs-timer-onenote",
+    "manifestUrl": "https://tu-usuario.github.io/gs-timer-onenote/manifest.xml"
+  }
+}
